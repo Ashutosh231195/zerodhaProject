@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-23T13:53:47 IST" name="Default suite" finished-at="2022-08-23T13:54:16 IST" duration-ms="28583">
+    <groups>
+    </groups>
+    <test started-at="2022-08-23T13:53:47 IST" name="Default test" finished-at="2022-08-23T13:54:16 IST" duration-ms="28583">
+      <class name="Test.HomePageTest">
+        <test-method is-config="true" signature="getReport()[pri:0, instance:Test.HomePageTest@f5958c9]" started-at="2022-08-23T13:53:47 IST" name="getReport" finished-at="2022-08-23T13:53:48 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method is-config="true" signature="logintoHomePage()[pri:0, instance:Test.HomePageTest@f5958c9]" started-at="2022-08-23T13:53:48 IST" name="logintoHomePage" finished-at="2022-08-23T13:53:54 IST" duration-ms="6432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoHomePage -->
+        <test-method signature="addSerchedStockToWishlist()[pri:0, instance:Test.HomePageTest@f5958c9]" started-at="2022-08-23T13:53:54 IST" name="addSerchedStockToWishlist" finished-at="2022-08-23T13:53:59 IST" duration-ms="4305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSerchedStockToWishlist -->
+        <test-method is-config="true" signature="getResults(org.testng.ITestResult)[pri:0, instance:Test.HomePageTest@f5958c9]" started-at="2022-08-23T13:53:59 IST" name="getResults" finished-at="2022-08-23T13:53:59 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addSerchedStockToWishlist status=SUCCESS method=HomePageTest.addSerchedStockToWishlist()[pri:0, instance:Test.HomePageTest@f5958c9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResults -->
+        <test-method is-config="true" signature="logintoHomePage()[pri:0, instance:Test.HomePageTest@f5958c9]" started-at="2022-08-23T13:53:59 IST" name="logintoHomePage" finished-at="2022-08-23T13:54:03 IST" duration-ms="4201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoHomePage -->
+        <test-method signature="buySerchedStock()[pri:0, instance:Test.HomePageTest@f5958c9]" started-at="2022-08-23T13:54:03 IST" name="buySerchedStock" finished-at="2022-08-23T13:54:07 IST" duration-ms="4156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buySerchedStock -->
+        <test-method is-config="true" signature="getResults(org.testng.ITestResult)[pri:0, instance:Test.HomePageTest@f5958c9]" started-at="2022-08-23T13:54:07 IST" name="getResults" finished-at="2022-08-23T13:54:07 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=buySerchedStock status=SUCCESS method=HomePageTest.buySerchedStock()[pri:0, instance:Test.HomePageTest@f5958c9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResults -->
+        <test-method is-config="true" signature="logintoHomePage()[pri:0, instance:Test.HomePageTest@f5958c9]" started-at="2022-08-23T13:54:07 IST" name="logintoHomePage" finished-at="2022-08-23T13:54:11 IST" duration-ms="4278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoHomePage -->
+        <test-method signature="sellSerchedStock()[pri:0, instance:Test.HomePageTest@f5958c9]" started-at="2022-08-23T13:54:11 IST" name="sellSerchedStock" finished-at="2022-08-23T13:54:15 IST" duration-ms="4182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sellSerchedStock -->
+        <test-method is-config="true" signature="getResults(org.testng.ITestResult)[pri:0, instance:Test.HomePageTest@f5958c9]" started-at="2022-08-23T13:54:15 IST" name="getResults" finished-at="2022-08-23T13:54:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sellSerchedStock status=SUCCESS method=HomePageTest.sellSerchedStock()[pri:0, instance:Test.HomePageTest@f5958c9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResults -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:Test.HomePageTest@f5958c9]" started-at="2022-08-23T13:54:15 IST" name="flushReport" finished-at="2022-08-23T13:54:16 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- Test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
